@@ -9,7 +9,7 @@ const (
 	page400Title              = "Bad request"
 	page403Title              = "Forbidden"
 	page404Title              = "Not found"
-	page404Body               = "The page you are looking for does not exist."
+	page404Body               = "Está página no existe"
 	page500Title              = "Internal Server Error"
 	page500Body               = "The server is unable to fulfill your request."
 	webDateTimeFormat         = "2006-01-02 15:04:05" // YYYY-MM-DD HH:MM:SS
