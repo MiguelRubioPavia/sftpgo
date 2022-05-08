@@ -12,9 +12,9 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.15.4
 	github.com/aws/aws-sdk-go-v2/credentials v1.12.0
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.12.4
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.8
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.9
 	github.com/aws/aws-sdk-go-v2/service/marketplacemetering v1.13.4
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.26.8
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.26.9
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.15.6
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.4
 	github.com/cockroachdb/cockroach-go/v2 v2.2.8
@@ -34,7 +34,7 @@ require (
 	github.com/hashicorp/go-plugin v1.4.4
 	github.com/hashicorp/go-retryablehttp v0.7.1
 	github.com/jlaffaye/ftp v0.0.0-20201112195030-9aae4d151126
-	github.com/klauspost/compress v1.15.2
+	github.com/klauspost/compress v1.15.3
 	github.com/lestrrat-go/jwx v1.2.24
 	github.com/lib/pq v1.10.5
 	github.com/lithammer/shortuuid/v3 v3.0.7
@@ -152,7 +152,7 @@ require (
 	golang.org/x/tools v0.1.10 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20220504150022-98cd25cafc72 // indirect
+	google.golang.org/genproto v0.0.0-20220505152158-f39f71e6c8f3 // indirect
 	google.golang.org/grpc v1.46.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/ini.v1 v1.66.4 // indirect
